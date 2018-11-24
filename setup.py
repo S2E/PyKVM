@@ -29,7 +29,7 @@ from setuptools import setup, find_packages
 setup(
     name='pykvm',
     description = 'A KVM client written in Python',
-    long_description=open('README.md', 'r').read(),
+    long_description = open('README.rst', 'r').read(),
     author='Vitaly Chipounov',
     author_email='vitaly@cyberhaven.io',
     version='1.0',
