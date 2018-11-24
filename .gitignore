@@ -1,0 +1,7 @@
+*.pyc
+*.idea
+s2e-last
+s2e-out-*
+*.o
+*.bin
+sample/sample
