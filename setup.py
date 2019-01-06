@@ -32,7 +32,7 @@ setup(
     long_description = open('README.rst', 'r').read(),
     author='Vitaly Chipounov',
     author_email='vitaly@cyberhaven.io',
-    version='1.0',
+    version='1.0.6',
     url='http://s2e.systems',
     download_url='https://github.com/S2E/pykvm.git',
     install_requires=[
