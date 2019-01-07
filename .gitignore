@@ -5,3 +5,6 @@ s2e-out-*
 *.o
 *.bin
 sample/sample
+build/
+dist/
+pykvm.egg-info/
